@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 抱朴子外篇
+#+DATE: 2015-08-28 21:39:14
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 1
+
+

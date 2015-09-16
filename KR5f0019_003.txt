@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 抱朴子外篇
+#+DATE: 2015-08-28 21:39:14
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 3
+
+之有述¶<md:KR5f0019_WYG_001-62b>¶¶¶¶¶¶¶¶¶<md:KR5f0019_WYG_001-63a>¶¶¶¶¶¶¶¶¶<md:KR5f0019_WYG_001-63b>¶¶¶¶¶¶¶¶¶<md:KR5f0019_WYG_001-64a>¶¶¶¶¶¶¶¶¶<md:KR5f0019_WYG_001-64b>¶¶¶¶¶¶¶¶¶<md:KR5f0019_WYG_002-1a>¶¶¶¶¶¶<md:KR5f0019_WYG_002-1b>¶¶¶¶¶¶¶
