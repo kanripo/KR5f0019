@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
-<md:KR5f0019_HFL_013-011b>¶<pb:KR5f0019_SBCK_013-10b>
 <md:KR5f0019_HFL_014-001a>¶
 <pb:KR5f0019_SBCK_014-1a>
 抱朴子内篇卷十四
@@ -241,3 +240,4 @@
 來也仙之可學致如黍稷之¶可播種得甚炳然耳然
 未有不耕而獲嘉禾¶未有不勤而獲長生度世也¶¶¶¶
 抱朴子内篇卷十四<md:KR5f0019_HFL_014-013b>¶終
+<pb:KR5f0019_SBCK_014-13a>

@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
-
 <md:KR5f0019_HFL_009-001a>¶
 <pb:KR5f0019_SBCK_009-1a>
 抱朴子内篇卷九
@@ -196,3 +195,6 @@
 無以却之矣夫儲甲胄蓄簑笠者蓋以¶為兵為雨也
 ⬤幸無攻戰時不沉隂則有與¶無正同耳⬤矢石霧
 合飛鋒煙交則知祼體¶者之困矣洪雨河傾素雪彌
+<md:KR5f0019_HFL_009-011b>¶<pb:KR5f0019_SBCK_009-10b>
+# SB1_0540-043.png
+# page missing

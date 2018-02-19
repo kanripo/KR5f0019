@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
-¶¶¶¶¶¶¶¶¶¶¶
 <md:KR5f0019_HFL_004-001a>¶
 <pb:KR5f0019_SBCK_004-1a>
 抱朴子内篇卷四¶
@@ -415,3 +414,6 @@
 兩置噐中煎之⬤爐¶以金置脂中百入百出苦酒亦
 爾湌一斤壽¶蔽天地湌半斤夀二千嵗五兩金千二
 百嵗<md:KR5f0019_HFL_004-022a>¶无多少便可餌之當以王相日作服之神良¶勿
+<md:KR5f0019_HFL_004-022b>¶<pb:KR5f0019_SBCK_004-21b>
+# SB1_0539-109.png
+# page missing

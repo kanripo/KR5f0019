@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
-
 <md:KR5f0019_HFL_007-001a>¶
 <pb:KR5f0019_SBCK_007-1a>
 抱朴子内篇卷七
@@ -165,3 +164,4 @@
 之諍諍之彌乆而彼執之彌固是虚長¶此紛紜而無
 救於不觧果當從連環之義乎¶¶¶
 抱朴子内篇卷七<md:KR5f0019_HFL_007-009b>¶終
+<pb:KR5f0019_SBCK_007-9a>

@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
-
 <md:KR5f0019_HFL_013-001a>¶
 <pb:KR5f0019_SBCK_013-1a>
 抱朴子内篇卷十三¶
@@ -196,3 +195,6 @@
 耳電之經目不足諭也雖身枯於流連¶之中氣絶於
 紈綺之間而甘心焉亦安可告¶之以養生之事哉不
 惟不納乃謂妖訛也而¶望彼信之所謂以明鑑給矇
+<md:KR5f0019_HFL_013-011b>¶<pb:KR5f0019_SBCK_013-10b>
+# SB1_0540-133.png
+# page missing
